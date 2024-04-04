@@ -1,0 +1,13 @@
+{
+  "system": "",
+  "name": "default_v2",
+  "messages": null,
+  "system_token": "<|system|>",
+  "system_format": "standard",
+  "user_token": "<|user|>",
+  "assistant_token": "<|assistant|>",
+  "end_token": "<|endoftext|>",
+  "mid_str": "\n",
+  "end_str": "\n",
+  "extra_end_text": "\n"
+}

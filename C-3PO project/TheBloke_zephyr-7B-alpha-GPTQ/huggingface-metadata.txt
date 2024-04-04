@@ -1,0 +1,6 @@
+url: https://huggingface.co/TheBloke/zephyr-7B-alpha-GPTQ
+branch: main
+download date: 2023-10-15 13:14:57
+sha256sum:
+    d5a7f97e5f9dd2100d1e81c7972335f4dd1462906ce3910526619c881a15989a model.safetensors
+    dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055 tokenizer.model
